@@ -21,6 +21,10 @@ Pick something from this list if you have free time during work for some reason.
 - [Designing with types](https://fsharpforfunandprofit.com/series/designing-with-types/)
 - [Functional Programming Design Patterns](https://fsharpforfunandprofit.com/fppatterns/)
 
+#### Distributed Systems
+- [Distributed Systems Shibboleths](https://jolynch.github.io/posts/distsys_shibboleths/)
+
+
 #### Observability, Monitoring, Operations
 - [Site Reliability Engineering](https://sre.google/sre-book/table-of-contents/)
   - [Principles](https://sre.google/sre-book/part-II-principles/)
