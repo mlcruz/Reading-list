@@ -2,8 +2,13 @@
 Interesting articles and reading material about day to day stuff. Rust, Distributed Systems, Obeservabiliy, Systems programming and such 
 
 
+## Main list
 
-### Expected reading for plataform team/services workgroup interns
+### Other
+  [The Grug Brained Developer: A layman's guide to thinking like the self-aware smol brained](https://grugbrain.dev/)
+
+
+## Expected reading for plataform team/services workgroup interns
 Pick something from this list if you have free time during work for some reason. Its not expected that you read stuff in your own time (unless you really want to).
 
 #### Rust
