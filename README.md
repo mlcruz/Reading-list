@@ -29,7 +29,6 @@ Interesting articles and reading material about day to day stuff. Rust, Distribu
 #### Videos
 
 - [Crust of Rust series](https://www.youtube.com/playlist?app=desktop&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
--
 
 ### Distributed Systems
 
@@ -86,3 +85,4 @@ Pick something from this list if you have free time during work for some reason.
 ### Other
 
 - [Writing system software: code comments](http://antirez.com/news/124)
+- [The Law of Leaky Abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/)
