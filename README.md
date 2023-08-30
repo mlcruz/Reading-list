@@ -4,11 +4,55 @@ Interesting articles and reading material about day to day stuff. Rust, Distribu
 
 ## Main list
 
+### System Design / Distributed Systems
+
+#### Books
+- [Designing Data-Intensive Applications](https://github.com/ms2ag16/Books/blob/master/Designing%20Data-Intensive%20Applications%20-%20Martin%20Kleppmann.pdf)
+
+- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+
+#### Articles
+
+- [Metastable failures in distributed systems](https://dl.acm.org/doi/abs/10.1145/3458336.3465286)
+
+- [Distributed Systems Shibboleths](https://jolynch.github.io/posts/distsys_shibboleths/)
+
+- [The Perils of Good Abstractions](https://web.archive.org/web/20181006111158/http://www.addsimplicity.com/adding_simplicity_an_engi/2006/12/the_perils_of_g.html)
+
+- [Building on Quicksand](https://arxiv.org/ftp/arxiv/papers/0909/0909.1788.pdf)
+
+- [Your Server as a Function](https://monkey.org/~marius/funsrv.pdf)
+
+- [CAP theorem](https://www.ibm.com/topics/cap-theorem)
+
+- [Eventually Consistent](https://www.allthingsdistributed.com/2007/12/eventually_consistent.html)
+
+- [Fallacies of Distributed Computing Explained](https://www.researchgate.net/publication/322500050_Fallacies_of_Distributed_Computing_Explained)
+
+- [Failure modes in distributed systems](https://alvaro-videla.com/2013/12/failure-modes-in-distributed-systems.html)
+
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
+- [Redis streams as a pure data structure](http://antirez.com/news/128)
+
+- [The C10K problem](http://www.kegel.com/c10k.html)
+
+- [Rust Crossbeam Learning Resources](https://github.com/crossbeam-rs/rfcs/wiki)
+
+### Resources And Lists
+
+- [The Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all)
+
+- [An Introduction to Distributed Systems](https://github.com/aphyr/distsys-class)
+
+- [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/7AVkpYmjlrG)
+
+
 ### Rust
 
 #### Books
 
-(For the ones who are paid, we got some (legit) copies of those books, ask me for more info)
+(For the ones who are paid, i own (legit) copies of those books, ask me for more info)
 
 - [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
 - [Rust for Rustaceans](https://nostarch.com/rust-rustaceans)
@@ -30,9 +74,7 @@ Interesting articles and reading material about day to day stuff. Rust, Distribu
 
 - [Crust of Rust series](https://www.youtube.com/playlist?app=desktop&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
 
-### Distributed Systems
 
-- [Metastable failures in distributed systems](https://dl.acm.org/doi/abs/10.1145/3458336.3465286)
 
 ### Other
 
